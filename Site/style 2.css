@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+
+}
+
+
+
+p, a, h1, h2, li {
+    font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+
+.filter {
+    width: 100%;
+    height: 190px;
+    background-color: #474747;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.da {
+    height: 50px;
+    width: 125px;
+    margin: 0px;
+
+}
+
+.block-2, .block-3, .block-4 {
+    margin-left: 20px;
+
+
+}
+
+h2 {
+    margin-bottom: 20px;
+
+
+
+}
+
+.btn1 {
+    width: 100px;
+    height: 50px;
+    margin: 0px;
+
+}
+
+.btn2 {
+    width: 50px;
+    height: 50px;
+    margin:0px;
+
+}
+
+.da_bl {
+    width: 250px;
+    height: 50px;
+
+
+}
+
+
+.fill {
+
+    width: 100%;
+    height: auto;
+    background-color: #6E6E6E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+
+.fill > h1 {
+    width: 350px;
+    height: 70px;
+    background-color: #444444;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+
+
+}
+
+
+.fill-block {
+    width: 1325px;
+    height: 970px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.fblock {
+    width: 300px;
+    height: 465px;
+    background-color: #FFFFFF;
+    
+
+}
+
+
+.fhead{
+    width: 300px;
+    height: 165px;
+    background-color: #A1A1A1;
+    border-bottom: 2px solid black;
+}
+
+.fmain {
+    height: 300px;
+    padding-left: 20px;
+    
+
+
+}
+
+
+.xz {
+
+
+    width: 300px;
+    height: 50px;
+}
+
+.zena {
+
+width: 300px;
+    height: 100px;
+
+
+}
+
+.zena > p {
+    color: #474747;
+    margin-bottom: 10px;
+}
+
+.mainbtn {
+    width: 255px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.mainbtn > a {
+    width: 200px;
+    height: 30px;
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    color: black;
+
+
+}
+
+
+ul > li {
+
+    font-size: 12px;
+
+}
+
+.fimg{
+    height: 165px;
+    width: 300px;
+}
